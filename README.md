@@ -14,4 +14,4 @@ Summary of findings:
  - All else equal, having the label 'Lux' could imply that the car is more energy efficient than average. THis means that luxury cars are produced to overperform non-luxury ones.
 3. The model can be improved by solving multicollinearity or adding more meaningful features.*
 
-<center><img scr'https://github.com/Emmyphung/emmyphung.github.io/blob/master/images/Car_model_corrplot.png'/></center>
+<center><img scr "https://github.com/Emmyphung/emmyphung.github.io/blob/master/images/Car_model_corrplot.png"/></center>
