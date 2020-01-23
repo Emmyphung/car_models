@@ -16,3 +16,4 @@ Summary of findings:
 
 <img scr="https://github.com/Emmyphung/emmyphung.github.io/blob/master/images/Car_model_corrplot.png"/>
 
+<center><img src="https://github.com/Emmyphung/portfolio/blob/master/images/Vegas_foodies.png"/></center>
