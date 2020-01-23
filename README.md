@@ -12,9 +12,7 @@ Summary of findings:
 2. The signs of the coefficients allign with our research, such as follows:
  - The bigger the weight is, the less energy efficient the car would be
  - All else equal, having the label 'Lux' could imply that the car is more energy efficient than average. THis means that luxury cars are produced to overperform non-luxury ones.
-3. The model can be improved by solving multicollinearity or adding more meaningful features.*
+3. The model can be improved by solving multicollinearity or adding more meaningful features.
 
-<center><img scr="https://github.com/Emmyphung/emmyphung.github.io/blob/master/images/Car_model_corrplot.png"/></center>
-
-<center><img scr="images/Car_model_corrplot.png"/></center>
+<img scr="https://github.com/Emmyphung/emmyphung.github.io/blob/master/images/Car_model_corrplot.png"/>
 
